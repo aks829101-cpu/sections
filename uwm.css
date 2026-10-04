@@ -1,0 +1,13 @@
+body {
+  font-family: "Nunito", Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: #222;
+  margin: 0;
+}
+
+header {
+  background-color: #f6c6c0;
+  padding: 1rem;
+  margin: 0.5rem 0;
+}
